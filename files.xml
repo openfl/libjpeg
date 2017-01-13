@@ -39,7 +39,6 @@
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jccolor.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jcsample.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jchuff.c"/>
-		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jcphuff.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jcdctmgr.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jfdctfst.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jfdctflt.c"/>
@@ -52,7 +51,6 @@
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdinput.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdmarker.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdhuff.c"/>
-		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdphuff.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdmainct.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdcoefct.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdpostct.c"/>
@@ -60,7 +58,6 @@
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jidctfst.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jidctflt.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jidctint.c"/>
-		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jidctred.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdsample.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdcolor.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jquant1.c"/>
@@ -71,6 +68,9 @@
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jerror.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jmemmgr.c"/>
 		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jmemnobs.c"/>
+		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jaricom.c"/>
+		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jcarith.c"/>
+		<file name="${NATIVE_TOOLKIT_PATH}/jpeg/jdarith.c"/>
 		
 	</files>
 	
